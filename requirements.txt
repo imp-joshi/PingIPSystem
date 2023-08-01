@@ -1,0 +1,5 @@
+pyodbc==4.0.0            # Required for connecting to SQL Server
+pandas==2.0.3            # Required for data manipulation and analysis
+plotly==5.15.0           # Required for generating interactive graphs
+schedule==1.2.0          # Required for scheduling tasks
+secure-smtplib==0.1.1    # Required for sending emails
